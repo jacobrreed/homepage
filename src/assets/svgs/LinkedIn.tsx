@@ -1,5 +1,5 @@
 export const LinkedIn = () => (
-  <svg viewBox="0 0 128 128" width="2em" height="2em">
+  <svg viewBox="0 0 128 128" width="1.5em" height="1.5em">
     <path
       fill="#0076b2"
       d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z"

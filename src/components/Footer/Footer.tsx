@@ -4,7 +4,7 @@ import { Tailwind } from "@/assets/svgs/Tailwind";
 export const Footer = () => (
   <div className="bottom-0 left-0 w-full text-center border-t border-[#bd93f9] p-1 bg-[#44475a] opacity-60 hover:opacity-100">
     <div className="flex justify-center">
-      <div className="mt-1">Made with ❤️ by Jacob Reed using:</div>
+      <div>Made with ❤️ by Jacob Reed using:</div>
       <a
         href="https://nextjs.org/"
         target="_blank"
@@ -15,7 +15,7 @@ export const Footer = () => (
       >
         <NextJs />
       </a>
-      <div className="mt-1">&nbsp;+&nbsp;</div>
+      <div>&nbsp;+&nbsp;</div>
       <a
         href="https://tailwindcss.com/"
         target="_blank"

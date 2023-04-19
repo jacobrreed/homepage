@@ -1,7 +1,7 @@
 export const Email = () => (
   <svg
-    width="2em"
-    height="2em"
+    width="1.5em"
+    height="1.5em"
     viewBox="7.086 -169.483 1277.149 1277.149"
     shape-rendering="geometricPrecision"
     text-rendering="geometricPrecision"

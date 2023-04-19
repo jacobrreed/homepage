@@ -1,5 +1,5 @@
 export const Github = () => (
-  <svg viewBox="0 0 128 128" width="2em" height="2em">
+  <svg viewBox="0 0 128 128" width="1.5em" height="1.5em">
     <g>
       <path
         fill-rule="evenodd"

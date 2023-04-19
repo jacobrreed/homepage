@@ -9,7 +9,7 @@ export const LinkList = (props: Props) => {
   const linkList = links.map((link, index) => {
     return (
       <div
-        className="flex space-x-2 text-red text-xl mt-2 mb-2 hover:animate-pulse hover:scale-125"
+        className="flex space-x-2 text-red text-xl mt-1 mb-1 hover:animate-pulse hover:scale-125"
         key={`${index}-${link.label}`}
       >
         <a
@@ -27,8 +27,8 @@ export const LinkList = (props: Props) => {
   });
 
   return (
-    <div className="drop-shadow-lg bg-[#44475a] rounded-lg items-center p-2">
-      <div className="flex space-x-6">{linkList}</div>
+    <div className="flex flex-row drop-shadow-lg bg-[#44475a] rounded-b-lg items-center justify-items-center p-1">
+      <div className="flex space-x-6 items-center">{linkList}</div>
     </div>
   );
 };
