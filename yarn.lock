@@ -2196,6 +2196,11 @@ synckit@^0.8.5:
     "@pkgr/utils" "^2.3.1"
     tslib "^2.5.0"
 
+tailwind-dracula@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tailwind-dracula/-/tailwind-dracula-1.1.0.tgz#3b53341841e065f75e9af253c3f94f4e01affe98"
+  integrity sha512-LjU1df6WGS5eUwozdPtZ7jARojHYTIe6y1Gj5v2QNaNnMnLm7ipPtlIEGlNXXraWjVnWeRbLZl4vvr48mMFGxw==
+
 tailwindcss@3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.3.1.tgz#b6662fab6a9b704779e48d083a9fef5a81d2b81e"
