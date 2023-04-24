@@ -5,6 +5,8 @@ import { Job } from "@/components/Job/Job";
 import { Location } from "@/components/Location/Location";
 import { Name } from "@/components/Name/Name";
 import { ProfilePic } from "@/components/ProfilePic/ProfilePic";
+import Image from "next/image";
+import lofiPic from "../assets/lofi.gif";
 
 const Home = () => {
   return (
@@ -16,6 +18,13 @@ const Home = () => {
         <Job />
         <Location />
         <About />
+        <br/>
+        <Image
+          src={lofiPic}
+          alt="lofi gif"
+          width={600}
+          height={600}
+        />
       </main>
 
       <Footer />
