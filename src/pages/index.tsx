@@ -18,17 +18,10 @@ const Home = () => {
         <Job />
         <Location />
         <About />
-        <br/>
+        <br />
 
-        <Image
-          src={lofiPic}
-          alt="lofi gif"
-          width={600}
-          height={600}
-        />
+        <Image src={lofiPic} alt="lofi gif" width={600} height={600} />
       </main>
-
-      <Footer />
     </>
   );
 };
