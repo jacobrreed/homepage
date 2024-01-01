@@ -12,5 +12,11 @@ export const About = () => (
       baking sourdough, and spending time with my wife, our two daughters, and
       my two dogs.
     </p>
+    <br />
+    <p className="text-xl break-words font-normal leading-loose indent-8">
+      My skillset is pretty wide but I have a lot of experience in front-end
+      development namely: Javascript, Typescript, React, Angular, Docker, and
+      Python.
+    </p>
   </div>
 );
