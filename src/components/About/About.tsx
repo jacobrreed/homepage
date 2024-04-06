@@ -16,7 +16,7 @@ export const About = () => (
       My skillset is pretty wide but I have a lot of experience in front-end
       development namely: Javascript, Typescript, React, Angular, Docker, and
       Python.
-      I'm always looking for new opportunities to learn and grow as a developer and to join new development teams. I'm currently looking for a new role as a full-stack developer or backend. Would prefer to work in Golang or Rust.
+      I&apos;m always looking for new opportunities to learn and grow as a developer and to join new development teams. I&apos;m currently looking for a new role as a full-stack developer or backend. Would prefer to work in Golang or Rust.
     </p>
   </div>
 );
