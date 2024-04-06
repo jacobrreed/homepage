@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-title-in-document-head */
 import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
   return (
@@ -6,7 +5,7 @@ export default function Document() {
       <Head title="Jacob Reed">
         <link rel="shortcut icon" href="/favicon.ico" />
         <meta name="description" content="Jacob Reed's personal website" />
-        <title>Jacob Reed</title>
+        <meta property="og:title" content="Jacob Reed" key="title" />
       </Head>
       <body>
         <Main />
