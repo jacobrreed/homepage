@@ -20,7 +20,7 @@ const Home = () => {
         <About />
         <br />
 
-        <Image src={lofiPic} alt="lofi gif" width={600} height={600} />
+        <Image src={lofiPic} alt="lofi gif" width={600} height={600} className="max-w-96" />
       </main>
     </>
   );
