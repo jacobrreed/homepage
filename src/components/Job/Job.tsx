@@ -16,7 +16,7 @@ export const Job = () => (
         />
       </svg>
 
-      <h2 className="text-2xl font-bold ">Software Engineer</h2>
+      <h2 className="text-2xl font-bold ">Senior Software Engineer</h2>
     </div>
     <div className="flex items-center justify-center">
       <p className="text-sm font-light ">

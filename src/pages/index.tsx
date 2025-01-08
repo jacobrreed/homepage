@@ -16,7 +16,6 @@ const Home = () => {
         <ProfilePic />
         <Name />
         <Job />
-        <Location />
         <About />
         <br />
 

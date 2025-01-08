@@ -7,15 +7,14 @@ export const About = () => (
       </a>{" "}
       with a passion, I love tinkering and building things with code as well as
       hardware. My hobbies include home lab networking and containerization,
-      building mechanical keyboards, PC gaming, programming, penetration testing, listening to and playing music (guitar/drums), snowboarding, brewing kombucha,
-      baking sourdough, spending time with my wife, our two daughters, and
-      my two dogs.
+      building mechanical keyboards, PC gaming, programming, penetration testing, listening to and playing music (guitar/drums), snowboarding,  spending time with my wife, our two daughters, and
+      my two dogs (pitties).
     </p>
     <br />
     <p className="text-xl break-words font-normal leading-loose indent-8">
       My skillset is pretty wide but I have a lot of experience in front-end
       development namely: Javascript, Typescript, React, Angular, Docker, and
-      Python.
+      Python (non inclusive), LUA.
       I&apos;m always looking for new opportunities to learn and grow as a developer and to join new development teams. I&apos;m currently looking for a new role as a full-stack developer or backend. Would prefer to work in Golang or Rust.
     </p>
   </div>
